@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.intro{
+    padding: 50px;
+}
+.aplicacao-cont{
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgb(0, 140, 255);
+    width: 200px;
+    height: 200px;
+    
+}
+
+.aplicacao-cont:hover{
+    background-color: rgb(123, 196, 255);
+}
+
+.aplicacoes{
+    text-align: center;
+    
+}
+
+.aplicacoes-cont{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
+  /* Estilo da caixa que será exibida */
+  .popup-box {
+    position: absolute;
+    width: 400px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo do botão de fechar */
+.close-btn {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.cnt-img{
+   display: grid;
+   place-items: center;
+   margin-top: 5px;
+}
+
+.cnt-img img{
+    width: 100%;
+}
+
+.text{
+    margin-left: 50%;
+    margin-top: 50px;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding: 50px;
+    
+}
+
+@media (max-width: 600px) {
+    .text {
+        margin-top: 50px;
+        width: 450px;
+        height: 95%;
+    }
+  }
