@@ -5,7 +5,7 @@ Uma landing page para um curso de introdução à programação com python
 
 Python é uma linguagem de programação amplamente usada e conhecida por sua simplicidade e versatilidade, o que a torna ideal para iniciantes. Criada por Guido van Rossum e lançada em 1991, Python é uma linguagem de alto nível que facilita a leitura e escrita de código, permitindo que desenvolvedores de todos os níveis criem programas de maneira intuitiva e produtiva. Com uma sintaxe clara e estrutura de fácil compreensão, Python é usada em várias áreas da tecnologia, como desenvolvimento web, ciência de dados, automação, inteligência artificial e muito mais. Ao longo deste curso, você aprenderá os conceitos básicos de Python e como utilizá-la para resolver problemas de programação de forma prática e eficiente.
 
-##O que será abordado no curso:
+<h2>O que será abordado no curso:</h2>
 
 
 1. Introdução à Programação
