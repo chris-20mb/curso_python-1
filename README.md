@@ -11,25 +11,25 @@ Python é uma linguagem de programação amplamente usada e conhecida por sua si
 1. Introdução ao Python
 
 
-    *O que é Python e para que ele é usado
-    *Instalando Python e um editor de código
-    *Como executar scripts Python no terminal
+    <li>O que é Python e para que ele é usado</li>
+    <li>Instalando Python e um editor de código</li>
+    <li>Como executar scripts Python no terminal</li>
 
 
 2. Sintaxe e Conceitos Básicos
 
    
-    *Variáveis e tipos de dados
-    *Operações aritméticas e operadores
-    *Comentários e boas práticas de código
+    <li>Variáveis e tipos de dados</li>
+    <li>Operações aritméticas e operadores</li>
+    <li>Comentários e boas práticas de código</li>
 
 
 3. Estruturas de Controle
 
     
-    *Condicionais
-    *Operadores lógicos e operadores de comparação
-    *Laços de repetição
-    *Funções embutidas
+    <li>Condicionais</li>
+    <li>Operadores lógicos e operadores de comparação</li>
+    <li>Laços de repetição</li>
+    <li>Funções embutidas</li>
 
 
