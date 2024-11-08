@@ -1,10 +1,12 @@
 body{
     background-color: rgb(0, 0, 0);
     color: #fff;
+    
 }
 
 .intro{
     padding: 50px;
+    margin-top: 100px;
 }
 
 .temas{
@@ -95,6 +97,39 @@ body{
     
 }
 
+.contacts{
+    display: grid;
+    place-items: center;
+}
+
+.contact-form{
+    width: 26.042vw;
+}
+
+.input-box{
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #377ef0;
+    width: 50%;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    margin-bottom: 100px;
+   
+}
+
+.form-control{
+    width: 100%;
+}
+
+
+.footer{
+    background-color: #212529;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
 @media (max-width: 600px) {
     .text {
         margin-top: 50px;
@@ -108,4 +143,27 @@ body{
        
     }
 
-  }
+
+    .contacts{
+        display: grid;
+        place-items: left;
+    }
+
+
+    .contact-form{
+        width: 90%;
+    }
+
+    .input-box{
+        width: 100%;
+    }
+
+
+    .footer{
+        background-color: #212529;
+        padding: 80px;
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
