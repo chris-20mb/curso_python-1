@@ -8,45 +8,28 @@ Python é uma linguagem de programação amplamente usada e conhecida por sua si
 <h2>O que será abordado no curso:</h2>
 
 
-1. Introdução à Programação
+1. Introdução ao Python
 
-    O que é programação?
-    Instalação do Python (Anaconda, IDLE, ou outros IDEs)
-    Primeiros passos: rodando o primeiro script Python
-    A importância da indentação em Python
 
-2. Conceitos Básicos de Python
+    *O que é Python e para que ele é usado
+    *Instalando Python e um editor de código
+    *Como executar scripts Python no terminal
 
-    Sintaxe básica
-    Tipos de dados: inteiros, floats, strings, booleanos
-    Variáveis e atribuição
-    Operadores aritméticos, lógicos e de comparação
-    Entrada e saída de dados (usando input() e print())
+
+2. Sintaxe e Conceitos Básicos
+
+   
+    *Variáveis e tipos de dados
+    *Operações aritméticas e operadores
+    *Comentários e boas práticas de código
+
 
 3. Estruturas de Controle
 
-    Condicionais (if, elif, else)
-    Laços de repetição (for, while)
-    Comandos break e continue
-    Trabalhando com intervalos e listas em laços
+    
+    *Condicionais
+    *Operadores lógicos e operadores de comparação
+    *Laços de repetição
+    *Funções embutidas
 
-4. Listas e Tuplas
 
-    Criação e manipulação de listas
-    Operações comuns em listas (adicionar, remover, acessar elementos)
-    Tuplas e diferenças em relação a listas
-    Listas aninhadas
-
-5. Dicionários
-
-    Introdução ao dicionário (chaves e valores)
-    Acessando e modificando elementos em dicionários
-    Métodos úteis para dicionários (get(), keys(), values())
-
-6. Funções
-
-    Definição de funções com def
-    Parâmetros e valores de retorno
-    Funções com valor de retorno None
-    Funções anônimas (lambda functions)
-    Escopo de variáveis (local vs global)
