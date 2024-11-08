@@ -6,6 +6,22 @@ body{
 .intro{
     padding: 50px;
 }
+
+.temas{
+    padding: 50px;
+}
+
+.tema{
+    font-size: 1fr;
+}
+
+.lista-temas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
 .aplicacao-cont{
     margin-right: 10px;
     border: 2px solid black;
@@ -85,4 +101,11 @@ body{
         width: 450px;
         height: 95%;
     }
+
+    .lista-temas{
+        display: flex;
+        flex-direction: column;
+       
+    }
+
   }
